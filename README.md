@@ -11,8 +11,16 @@ External camera on the top, external screen covered with acrylic paper, differen
 
 
 
-11/16/2016 - Milestone1:
+Milestone1:
 
 Implemented a simple finger-controlled audio player. Buttons and volume control sliders are drawn on the paper. The web camera grabs the video and the program knows if finger is covered on the button by detecting the brightness change. The program is unstable sometimes and the performance is affected by environment brightness.
 
 Next step would be let the program detect the elements by color (RGB value) rather than brightness.
+
+
+
+Milestone2:
+
+Implemented a color tracker which tracks different colors in the picture by hue value. Combined the color tracker with the previous milestone1 result. Now the web camera can recognize different elements of the plug-in drawn on paper by color, rather than position, which is more stable. The "audio playback" button is red color, "volume" slider is blue color, "audio stop" button is black color, and my finger (which points to the button and slider) is painted with purple. When the centroid of my finger (purple color) is inbound of contour of the element, then that element will make effect to the sound.
+
+Next step: screen display values, design more advanced plug-in.
