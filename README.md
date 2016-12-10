@@ -1,17 +1,17 @@
 # Music256A-2016Fall-FinalProject
 
 
-Description:
+### Description:
 
 Virtual Audio Player is an audio player utilizing augmented reality. User can design and draw the audio player elements(play button, sliders, etc.) on a transparent paper and cover the paper on a flat computer screen. Then user can use finger to to press the button or move the sliders, just like using a real audio player. A web camera detects the finger position and audio elements by color, and transfer the information to the computer to change the output sound. The computer can also draw waveform, current slider value and other elements on the screen to interact with the drawing. 
 
 
-Installation: 
+### Installation: 
 
 External camera on the top, external screen covered with transparent paper, different colors of mark pens.
 
 
-Guide in running the program:
+### Guide in running the program:
 
 1. Set the width and height value according to your camera settings. You should configure this properly or the tracking won't work.
    Recommend setting:
@@ -25,10 +25,10 @@ Guide in running the program:
 4. Paste a paper with dark red color on your finger. Press the button or move the slider.
 
 
-Project demo video: https://youtu.be/VRHCBn_fqmM
+### Project demo video: https://youtu.be/VRHCBn_fqmM
 
 
-Step by step progress in implementing the prject
+### Step by step progress in implementing the prject
 
 Milestone1:
 
@@ -45,9 +45,7 @@ Final version:
 A well-tested virtual audio player, with play button, stop button, volume slider, audio playback rate slider, waveform display. Camera detect different elements by hue value. Stable in yellow light environment.
 
 
-Color hue value in different enviroment
-
-Detected color hue value in different environment"
+### Color hue value in different environment
 
 No light circumstance:
 Red: 176
