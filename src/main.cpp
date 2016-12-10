@@ -3,7 +3,9 @@
 
 //========================================================================
 int main( ){
-	ofSetupOpenGL(1024,768,OF_WINDOW);			// <-------- setup the GL context
+    // 1280 * 960 for web camera
+    // 1280 * 720 for Macbook Pro camera
+	ofSetupOpenGL(1280, 960, OF_WINDOW);			// <-------- setup the GL context
 
 	// this kicks off the running of my app
 	// can be OF_WINDOW or OF_FULLSCREEN
