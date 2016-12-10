@@ -28,7 +28,7 @@ External camera on the top, external screen covered with transparent paper, diff
 ### Project demo video: https://youtu.be/VRHCBn_fqmM
 
 
-### Step by step progress in implementing the prject
+### Step by step progress in implementing the project
 
 Milestone1:
 
