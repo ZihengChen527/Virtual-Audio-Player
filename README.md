@@ -28,7 +28,7 @@ External camera on the top, external screen covered with transparent paper, diff
 ### Project demo video: https://youtu.be/VRHCBn_fqmM
 
 
-### Step by step progress in implementing the prject
+### Step by step progress in implementing the project
 
 Milestone1:
 
@@ -48,44 +48,44 @@ A well-tested virtual audio player, with play button, stop button, volume slider
 ### Color hue value in different environment
 
 No light circumstance:
-Red: 176
-Dark Blue: 117
-Grass Green: 54
-Pink: 159
-Yellow: 34
-Blue: 108
+Red: 176,
+Dark Blue: 117,
+Grass Green: 54,
+Pink: 159,
+Yellow: 34,
+Blue: 108,
 Purple: 127
 
 Mild light circumstance:
-Red: 174
-Dark Blue: 130
-Grass Green: 56
-Pink: 160
-Yellow: 34
-Blue: 110
-Purple: 123
+Red: 174,
+Dark Blue: 130,
+Grass Green: 56,
+Pink: 160,
+Yellow: 34,
+Blue: 110,
+Purple: 123,
 Finger + Pink = 178
 
 Studio C without light (not good with light)
-Dark Red: 176
-Red: 164~170
-Dark Blue: 113~118
-Blue: 101~109
-Pink: 146~152
-Grass Green: 47~56 (not good)
-Green: 80~85
-Yellow: 39 (not good in distinction)
-Purple: 125~130
+Dark Red: 176,
+Red: 164~170,
+Dark Blue: 113~118,
+Blue: 101~109,
+Pink: 146~152,
+Grass Green: 47~56 (not good),
+Green: 80~85,
+Yellow: 39 (not good in distinction),
+Purple: 125~130,
 Finger: (dark, can not distinct)
 
 Stage with light (No.8 light configuration):
-Dark Red: 176
-Red: 164~172
-Dark Blue: 116~120
-Blue: 106~109
-Pink: 147~156
-Green: 82~88
-Purple: 129~137
-Grass Green: 35~57 (not very good)
-Yellow: 34 (not good in distinction)
+Dark Red: 176,
+Red: 164~172,
+Dark Blue: 116~120,
+Blue: 106~109,
+Pink: 147~156,
+Green: 82~88,
+Purple: 129~137,
+Grass Green: 35~57 (not very good),
+Yellow: 34 (not good in distinction),
 Finger: 6~8 (not good in distinction)
