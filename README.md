@@ -1,4 +1,4 @@
-# Virtual Audio Player -- Music256A FinalProject
+# Virtual Audio Player -- Music256A Final Project
 
 
 ### Description:
