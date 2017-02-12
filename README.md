@@ -1,4 +1,4 @@
-# Music256A-2016Fall-FinalProject
+# Virtual Audio Player -- Music256A FinalProject
 
 
 ### Description:
